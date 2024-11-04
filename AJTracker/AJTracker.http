@@ -1,0 +1,6 @@
+@AJTracker_HostAddress = http://localhost:5009
+
+GET {{AJTracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
