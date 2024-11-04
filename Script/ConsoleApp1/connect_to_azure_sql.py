@@ -4,7 +4,7 @@
 server = 'ajtracker-server.database.windows.net'  # Your server name
 database = 'AJTrackerdb'  # Your database name
 username = 'adminuser'  # Your SQL admin username
-password = 'ss96YB!zC&q9ASF!'  # Your SQL password
+password = 'MYPASSWORD'  # Your SQL password
 driver = '{ODBC Driver 18 for SQL Server}'
 
 conn = None  # Initialize conn to None
